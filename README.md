@@ -1,4 +1,4 @@
-# cblasterAnalysis
+# Cblaster Analysis
 
 This code will analyze result files that are produced by cblaster https://github.com/gamcil/cblaster or via online cblaster: https://cagecat.bioinformatics.nl/
 
